@@ -22,8 +22,8 @@ func main() {
 		AllowHeaders: "Origin, Content-Type, Accept",
 	}))
 
-	// Crear un manejador para la ruta "/api/data"
-	app.Get("/api/data", func(c *fiber.Ctx) error {
+	// Crear un manejador para la ruta "/data"
+	app.Get("/data", func(c *fiber.Ctx) error {
 		// Crear datos del estudiante
 		studentData := StudentData{
 			Name:     "Sergio Andre Lima Corado",
