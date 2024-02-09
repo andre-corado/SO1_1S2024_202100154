@@ -1,17 +1,9 @@
 const express = require('express');
-const mongoose = require('mongoose');
 const cors = require('cors');
-const bodyParser = require('body-parser');
+const mongoose = require('mongoose');
 
 const app = express();
-const PORT = 4000;
-
-// Middleware para aumentar el límite de tamaño de carga útil (payload) a 50 MB
-app.use(express.json({ limit: '50mb' }));
-app.use(express.urlencoded({ limit: '50mb', extended: true }));
-
-// Middleware para permitir solicitudes de otros orígenes (CORS)
-app.use(cors());
+const PORT = 3001;
 
 // Conexión a la base de datos MongoDB
 mongoose.connect('mongodb://localhost:27017/image_upload_db', {
@@ -30,33 +22,41 @@ const imageSchema = new mongoose.Schema({
   }
 });
 
+// Definir el modelo para los documentos de la imagen
 const Image = mongoose.model('Image', imageSchema);
 
-// Ruta para recibir y almacenar la imagen
-app.post('/upload', async (req, res) => {
+// Middleware para analizar el cuerpo de las solicitudes como texto
+app.use(express.text());
+
+// Habilitar CORS
+app.use(cors());
+
+// Ruta para recibir la imagen del frontend y guardarla en MongoDB
+app.post('/uploadPhoto', async (req, res) => {
   try {
-    // Verificar si se recibió la imagen en formato base64
-    if (!req.body.imageData) {
-      return res.status(400).json({ error: 'La imagen en base64 es requerida' });
-    }
+    const imageData = req.body;
+    console.log('\nImagen recibida...\n');
 
     // Crear un nuevo documento de imagen
     const newImage = new Image({
-      imageData: req.body.imageData
+      imageData: imageData
     });
+
+    console.log('Guardando imagen en la db...\n');
 
     // Guardar la imagen en la base de datos
     await newImage.save();
 
-    // Devolver una respuesta exitosa
-    res.status(200).json({ message: 'Imagen almacenada correctamente' });
+    // Enviar una respuesta al frontend
+    res.status(200).send('Imagen almacenada correctamente.');
+    console.log('La imagen fue almacenada correctamente!\n');
   } catch (error) {
-    console.error('Error al almacenar la imagen:', error);
-    res.status(500).json({ error: 'Ocurrió un error al almacenar la imagen' });
+    console.error('Error al procesar la imagen:', error);
+    res.status(500).send('Ocurrió un error al procesar la imagen.');
   }
 });
 
 // Iniciar el servidor
 app.listen(PORT, () => {
-  console.log(`Servidor escuchando en el puerto ${PORT}`);
+  console.log(`\n\nServidor escuchando en el puerto ${PORT}`);
 });
