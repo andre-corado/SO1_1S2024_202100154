@@ -21,16 +21,17 @@ const CameraComponent = () => {
     context.drawImage(videoRef.current, 0, 0, canvas.width, canvas.height);
     const data = canvas.toDataURL('image/png');
     setPhoto(data);
+    console.log(data);
   };
 
   const sendPhoto = async () => {
     try {
-      const formData = new FormData();
-      formData.append('image', dataURItoBlob(photo)); // Suponiendo que 'photo' contiene la imagen en formato base64
-  
-      const response = await fetch('http://localhost:3000/upload', {
+      const response = await fetch('http://localhost:4000/upload', {
         method: 'POST',
-        body: formData
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ image: photo }) // photo contiene la imagen en formato base64
       });
   
       if (response.ok) {
@@ -43,19 +44,7 @@ const CameraComponent = () => {
     }
   };
   
-  // Función para convertir un Data URI a un objeto Blob
-  function dataURItoBlob(dataURI) {
-    const byteString = atob(dataURI.split(',')[1]);
-    const mimeString = dataURI.split(',')[0].split(':')[1].split(';')[0];
-    const ab = new ArrayBuffer(byteString.length);
-    const ia = new Uint8Array(ab);
-    for (let i = 0; i < byteString.length; i++) {
-      ia[i] = byteString.charCodeAt(i);
-    }
-    return new Blob([ab], { type: mimeString });
-  }
-  
-
+   
   return (
     <div>
       <button onClick={startCamera}>Start Camera</button>

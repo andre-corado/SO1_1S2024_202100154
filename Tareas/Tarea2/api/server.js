@@ -1,49 +1,62 @@
-// server.js
 const express = require('express');
-const multer = require('multer');
 const mongoose = require('mongoose');
+const cors = require('cors');
+const bodyParser = require('body-parser');
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = 4000;
 
-// Configuración de Multer para manejar la carga de archivos
-const storage = multer.memoryStorage();
-const upload = multer({ storage });
+// Middleware para aumentar el límite de tamaño de carga útil (payload) a 50 MB
+app.use(express.json({ limit: '50mb' }));
+app.use(express.urlencoded({ limit: '50mb', extended: true }));
 
-// Conexión a MongoDB utilizando Mongoose
-mongoose.connect('mongodb://localhost:27017/imageDB', {
+// Middleware para permitir solicitudes de otros orígenes (CORS)
+app.use(cors());
+
+// Conexión a la base de datos MongoDB
+mongoose.connect('mongodb://localhost:27017/image_upload_db', {
   useNewUrlParser: true,
   useUnifiedTopology: true
-});
-const db = mongoose.connection;
-db.on('error', console.error.bind(console, 'connection error:'));
-db.once('open', () => {
-  console.log('Connected to MongoDB');
+})
+.then(() => console.log('Conexión a la base de datos exitosa'))
+.catch(err => console.error('Error al conectar a la base de datos:', err));
+
+// Definir el esquema para los documentos de la imagen
+const imageSchema = new mongoose.Schema({
+  imageData: String,
+  uploadDate: {
+    type: Date,
+    default: Date.now
+  }
 });
 
-// Definir un esquema y un modelo para la colección de imágenes
-const imageSchema = new mongoose.Schema({
-  data: Buffer,
-  contentType: String
-});
 const Image = mongoose.model('Image', imageSchema);
 
-// Ruta para manejar la carga de imágenes
-app.post('/upload', upload.single('image'), async (req, res) => {
+// Ruta para recibir y almacenar la imagen
+app.post('/upload', async (req, res) => {
   try {
+    // Verificar si se recibió la imagen en formato base64
+    if (!req.body.imageData) {
+      return res.status(400).json({ error: 'La imagen en base64 es requerida' });
+    }
+
+    // Crear un nuevo documento de imagen
     const newImage = new Image({
-      data: req.file.buffer,
-      contentType: req.file.mimetype
+      imageData: req.body.imageData
     });
+
+    // Guardar la imagen en la base de datos
     await newImage.save();
-    res.status(201).send('Image uploaded successfully');
+
+    // Devolver una respuesta exitosa
+    res.status(200).json({ message: 'Imagen almacenada correctamente' });
   } catch (error) {
-    console.error(error);
-    res.status(500).send('Error uploading image');
+    console.error('Error al almacenar la imagen:', error);
+    res.status(500).json({ error: 'Ocurrió un error al almacenar la imagen' });
   }
 });
 
 // Iniciar el servidor
 app.listen(PORT, () => {
-  console.log(`Server is running on port ${PORT}`);
+  console.log(`Servidor escuchando en el puerto ${PORT}`);
 });
