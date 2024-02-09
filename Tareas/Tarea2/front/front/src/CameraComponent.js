@@ -23,10 +23,38 @@ const CameraComponent = () => {
     setPhoto(data);
   };
 
-  const sendPhoto = () => {
-    // Aquí enviarías la foto a la API utilizando fetch
-    console.log('Sending photo:', photo);
+  const sendPhoto = async () => {
+    try {
+      const formData = new FormData();
+      formData.append('image', dataURItoBlob(photo)); // Suponiendo que 'photo' contiene la imagen en formato base64
+  
+      const response = await fetch('http://localhost:3000/upload', {
+        method: 'POST',
+        body: formData
+      });
+  
+      if (response.ok) {
+        console.log('Image uploaded successfully');
+      } else {
+        console.error('Failed to upload image');
+      }
+    } catch (error) {
+      console.error('Error uploading image:', error);
+    }
   };
+  
+  // Función para convertir un Data URI a un objeto Blob
+  function dataURItoBlob(dataURI) {
+    const byteString = atob(dataURI.split(',')[1]);
+    const mimeString = dataURI.split(',')[0].split(':')[1].split(';')[0];
+    const ab = new ArrayBuffer(byteString.length);
+    const ia = new Uint8Array(ab);
+    for (let i = 0; i < byteString.length; i++) {
+      ia[i] = byteString.charCodeAt(i);
+    }
+    return new Blob([ab], { type: mimeString });
+  }
+  
 
   return (
     <div>
