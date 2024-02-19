@@ -1,0 +1,1 @@
+cmd_/home/ubu/Desktop/GitHub/SO1_1S2024_202100154/HT/mod/ram.ko := ld -r  -m elf_x86_64 -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/ubu/Desktop/GitHub/SO1_1S2024_202100154/HT/mod/ram.ko /home/ubu/Desktop/GitHub/SO1_1S2024_202100154/HT/mod/ram.o /home/ubu/Desktop/GitHub/SO1_1S2024_202100154/HT/mod/ram.mod.o;  true
