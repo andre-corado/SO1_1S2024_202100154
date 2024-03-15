@@ -1,0 +1,31 @@
+/* Live.css */
+body {
+    display: initial !important;
+    place-items: initial !important;
+
+
+}
+
+/* LiveStyles.css */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(136, 127, 127); /* Fondo oscuro para el contenido de la página */
+
+  }
+  
+  .chartContainer {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .chartLabel {
+    margin-top: 10px;
+    font-size: 36px;
+  }
+  
+

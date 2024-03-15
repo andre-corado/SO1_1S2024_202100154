@@ -1,0 +1,13 @@
+# Archivos de compilación binarios
+*.exe
+*.out
+*.o
+
+# Directorio de binarios generados
+/bin
+
+# Directorio de caché de dependencias
+/vendor
+
+# Archivos de respaldo y temporales
+*~
