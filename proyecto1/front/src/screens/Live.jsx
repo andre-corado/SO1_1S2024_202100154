@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import './Live.css';
 import PieChart from '../components/PieChart';
 
-const API_URL = 'http://localhost:3000/getLive';
+const API_URL = 'http://localhost:3000/api/getLive';
 
 const Live = () => {
     const [ramUsage, setRamUsage] = useState(null);
@@ -14,6 +14,7 @@ const Live = () => {
             const data = await response.json();
             setRamUsage(data.ram);
             setCpuUsage(data.cpu);
+            console.log(data);
             console.log("ramUsage: ", data.ram , "cpuUsage: ", data.cpu);
         } catch (error) {
             console.error('Error fetching live data:', error);

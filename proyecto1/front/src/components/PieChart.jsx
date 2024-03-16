@@ -23,6 +23,9 @@ function PieChart ({ value }) {
             backgroundColor: ["#36A2EB", "#FF6384"],
           }
         ]
+      },
+      options: {
+        animation: true // Deshabilitar la animación
       }
     });
     
