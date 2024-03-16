@@ -4,6 +4,8 @@ import (
 	"github.com/gofiber/fiber/v2"
 )
 
+// Importa el archivo que contiene la función getLive
+
 func main() {
 	// Crea una nueva instancia de la aplicación Fiber
 	app := fiber.New()
@@ -19,23 +21,17 @@ func main() {
 		return c.Next()
 	})
 
-	// Ruta GET para el endpoint "/"
-	app.Get("/", func(c *fiber.Ctx) error {
+	//  ---------------- Rutas ----------------
+
+	// --- ROOT ---
+	app.Get("/api/", func(c *fiber.Ctx) error {
 		return c.SendString("¡Hola, mundo!")
 	})
 
-	// Ruta GET para el endpoint "/getLive"
-	app.Get("/getLive", func(c *fiber.Ctx) error {
-		return c.JSON(fiber.Map{
-			"ram": 66,
-			"cpu": 33,
-		})
-	})
-
-	// Ruta GET para el endpoint "/saludo/:nombre"
-	app.Get("/saludo/:nombre", func(c *fiber.Ctx) error {
-		nombre := c.Params("nombre")
-		return c.SendString("¡Hola, " + nombre + "!")
+	// --- GET /api/getLive ---
+	app.Get("/api/getLive", func(c *fiber.Ctx) error {
+		str := getLive()
+		return c.SendString(str)
 	})
 
 	// Escucha en el puerto 3000
