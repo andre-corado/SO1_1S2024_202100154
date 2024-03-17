@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import './Live.css';
 import PieChart from '../components/PieChart';
 
-const API_URL = 'http://localhost:3000/api/getLive';
+const API_URL = '/api';
 
 const Live = () => {
     const [ramUsage, setRamUsage] = useState(null);
@@ -10,7 +10,7 @@ const Live = () => {
 
     const fetchData = async () => {
         try {
-            const response = await fetch(API_URL);
+            const response = await fetch(`${API_URL}/getLive`);
             const data = await response.json();
             setRamUsage(data.ram);
             setCpuUsage(data.cpu);
