@@ -65,11 +65,12 @@ Se elaboró con ```Chart.js``` para poder mostrar el gráfico de pastel.
 
 ### Graph2d
 
-![vis.js](img/visjs.png)
+![vis.js](img/visjs.webp)
 
 Se utilizó la librería ```vis.js``` para mostrar el gráfico de líneas que muestra el uso de la CPU y la memoria RAM en el tiempo.
 
-Además también 
+### D3
+Además en la fase de desarrollo también se utilizó la librería ```D3``` para tratar de mostrar los distintos procesos en el sistema operativo, sin embargo, no se logró implementar en toda la versión final del proyecto.
 
 
 
@@ -185,10 +186,37 @@ Devuelve un json con la información de los procesos en el sistema operativo.
 
 ![Docker](img/docker.png)
 
-Se utilizó Docker para el despliegue de la aplicación. Docker es una plataforma de código abierto que permite a los desarrolladores construir, empaquetar y distribuir aplicaciones dentro de contenedores. Los contenedores son una forma de empaquetar aplicaciones con todas sus dependencias y ejecutarlas de forma aislada en cualquier entorno. Gggg
+Se utilizó Docker para el despliegue de la aplicación. Docker es una plataforma de código abierto que permite a los desarrolladores construir, empaquetar y distribuir aplicaciones dentro de contenedores. Los contenedores son una forma de empaquetar aplicaciones con todas sus dependencias y ejecutarlas de forma aislada en cualquier entorno.
 
 Se utilizó un archivo ```docker-compose.yml``` para poder levantar los contenedores de la base de datos, la API y el frontend.
+
+---
 
 ## Docker Compose
 
 Se utilizó Docker Compose para poder levantar los contenedores de la base de datos, la API y el frontend. Docker Compose es una herramienta que permite definir y ejecutar aplicaciones Docker de múltiples contenedores. Con Compose, se define una aplicación multi-contenedor en un archivo YAML, luego se crea y se inicia todo el entorno de la aplicación con un solo comando.
+
+## Servicios
+
+- ### Frontend
+
+En este servicio se encuentra el contenedor de la aplicación de React. Se implementó también nginx para poder consumir la API y desplegar la aplicación.
+
+- ### API
+
+En este servicio se encuentra el contenedor de la API de Golang. El cual tiene una conexión con el servicio de la base de datos.
+
+- ### DB
+
+En este servicio se encuentra el contenedor de la base de datos de MySQL. Se implementó un volumen para poder almacenar la información de la base de datos y que esta no se pierda al reiniciar el contenedor.
+
+
+--- 
+
+## Virtualización
+
+![Virtualización](img/ubuserver.jpg)
+
+Se utilizó una máquina virtual de Ubuntu Server para el despliegue de la aplicación. Ubuntu Server es una distribución de Linux basada en Debian, y es una de las distribuciones de Linux más populares para servidores.
+
+En este caso se hizo uso de la versión de ```Ubuntu Server 22.04 LTS```.	
