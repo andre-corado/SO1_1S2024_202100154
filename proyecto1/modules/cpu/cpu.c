@@ -8,7 +8,7 @@
 #include <linux/mm.h> // get_mm_rss()
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Andre Corado);
+MODULE_AUTHOR("Andre Corado");
 MODULE_DESCRIPTION("Informacion cpu");
 MODULE_VERSION("1.0");
 
