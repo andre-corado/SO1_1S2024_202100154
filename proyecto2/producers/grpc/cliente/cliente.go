@@ -33,6 +33,7 @@ func insertData(c *fiber.Ctx) error {
 		year:  data["year"],
 		rank:  data["rank"],
 	}
+	fmt.Println(album)
 
 	go sendServer(album)
 	return c.JSON(fiber.Map{
@@ -76,7 +77,7 @@ func main() {
 			"res": "Conexión exitosa con el servidor gRPC",
 		})
 	})
-	app.Post("/insert", insertData)
+	app.Post("/grpc", insertData)
 
 	err := app.Listen(":3000")
 	if err != nil {

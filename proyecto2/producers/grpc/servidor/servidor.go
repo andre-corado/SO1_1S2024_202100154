@@ -2,7 +2,6 @@ package main
 
 import (
 	"context"
-	"database/sql"
 	"fmt"
 	"log"
 	"net"
@@ -11,9 +10,6 @@ import (
 	_ "github.com/go-sql-driver/mysql"
 	"google.golang.org/grpc"
 )
-
-var ctx = context.Background()
-var db *sql.DB
 
 type server struct {
 	pb.UnimplementedGetInfoServer

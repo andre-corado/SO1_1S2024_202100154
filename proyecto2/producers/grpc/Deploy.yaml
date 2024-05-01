@@ -1,0 +1,49 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: grpc-app
+  namespace: p2-namespace
+  labels:
+    app: grpc-app
+spec:
+  selector:
+    matchLabels:
+      app: grpc-app
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: grpc-app
+    spec:
+      containers:
+      - name: client
+        image: andrecorado/grpc_client:latest
+        ports:
+        - containerPort: 3000
+        resources:
+          limits:
+            memory: 500Mi
+            cpu: 400m          
+      - name: server
+        image: andrecorado/grpc_server:v0.1
+        ports:
+        - containerPort: 3001
+        resources:
+          limits:
+            memory: 500Mi
+            cpu: 400m
+  
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: grpc-app
+  namespace: p2-namespace
+spec:
+  ports:
+  - protocol: TCP
+    port: 3000
+    targetPort: 3000
+  selector:
+    app: grpc-app
+  type: ClusterIP
