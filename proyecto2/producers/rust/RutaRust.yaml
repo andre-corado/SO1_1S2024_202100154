@@ -21,7 +21,7 @@ spec:
         ports:
         - containerPort: 8000        
       - name: server
-        image: andrecorado/rust_server:0.01
+        image: andrecorado/rust_server:0.03
         imagePullPolicy: Always
         ports:
         - containerPort: 8080        

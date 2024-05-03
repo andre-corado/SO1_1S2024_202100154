@@ -1,5 +1,5 @@
 use rocket::response::status::BadRequest;
-use rocket::serde::json::{json, Value as JsonValue};
+use rocket::serde::json::json;
 use rocket::serde::json::Json;
 use rocket::config::SecretKey;
 use rocket_cors::{AllowedOrigins, CorsOptions};
@@ -16,13 +16,14 @@ struct Data {
 }
 
 #[rocket::post("/data", data = "<data>")]
-fn receive_data(data: Json<Data>) -> Result<String, BadRequest<String>> {
+async fn receive_data(data: Json<Data>) -> Result<String, BadRequest<String>> {
     let received_data = data.clone().into_inner();
+    send_kafka(data).await;
     let message = json!({
         "message": format!("Received data: Nombre: {}, Album: {}, Año: {}, Rank: {}", received_data.name, received_data.album, received_data.year, received_data.rank)
     });
     // Enviar mensaje a Kafka
-    send_kafka(data);
+    
     Ok(message.to_string())
 }
 
