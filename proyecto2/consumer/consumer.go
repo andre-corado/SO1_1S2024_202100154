@@ -80,27 +80,24 @@ func SaveToRedis(voto *Voto) {
 		DB:       0,                    // Usa el DB predeterminado
 	})
 
-	// Verificar si la clave del álbum existe en Redis
-	exists, err := rdb.Exists(ctx, voto.Name).Result()
+	// Incrementar el contador del voto para el artista en Redis
+	err := rdb.HIncrBy(ctx, "votos_artistas", voto.Name, 1).Err()
 	if err != nil {
-		fmt.Println("Error al verificar la existencia del álbum:", err)
+		fmt.Println("Error al incrementar el contador del voto para el artista:", err)
 		return
 	}
 
-	// Si la clave del álbum no existe, crearla con un valor inicial de 1
-	if exists == 0 {
-		err := rdb.Set(ctx, voto.Name, 0, 0).Err() // 0 para que no expire
-		if err != nil {
-			fmt.Println("Error al crear la clave del álbum:", err)
-			return
-		}
-		fmt.Println("Nuevo Artista: Creado en Redis")
+	// Incrementar el contador del voto para el álbum en Redis
+	err = rdb.HIncrBy(ctx, "votos_albumes", voto.Album, 1).Err()
+	if err != nil {
+		fmt.Println("Error al incrementar el contador del voto para el álbum:", err)
+		return
 	}
 
-	// Incrementar el contador del álbum en Redis
-	err = rdb.Incr(ctx, voto.Name).Err()
+	// Número de votos totales
+	err = rdb.Incr(ctx, "votos_total").Err()
 	if err != nil {
-		fmt.Println("Error al incrementar el contador del álbum:", err)
+		fmt.Println("Error al incrementar el contador de votos totales:", err)
 		return
 	}
 
