@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: backend
-        image: andrecorado/go_consumer:0.6
+        image: andrecorado/go_consumer:0.08
         resources:
           limits:
             memory: 128Mi

@@ -6,6 +6,7 @@ import (
 	"log"
 	"strings"
 
+	"github.com/go-redis/redis/v8"
 	"github.com/segmentio/kafka-go"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
@@ -70,6 +71,43 @@ func SaveToMongoDB(voto *Voto) {
 	}
 }
 
+func SaveToRedis(voto *Voto) {
+	// Conexión a Redis
+	ctx := context.Background()
+	rdb := redis.NewClient(&redis.Options{
+		Addr:     "35.226.58.104:6379", // Cambia esto según tu configuración de Redis
+		Password: "",                   // Configura si se requiere autenticación
+		DB:       0,                    // Usa el DB predeterminado
+	})
+
+	// Verificar si la clave del álbum existe en Redis
+	exists, err := rdb.Exists(ctx, voto.Name).Result()
+	if err != nil {
+		fmt.Println("Error al verificar la existencia del álbum:", err)
+		return
+	}
+
+	// Si la clave del álbum no existe, crearla con un valor inicial de 1
+	if exists == 0 {
+		err := rdb.Set(ctx, voto.Name, 0, 0).Err() // 0 para que no expire
+		if err != nil {
+			fmt.Println("Error al crear la clave del álbum:", err)
+			return
+		}
+		fmt.Println("Nuevo Artista: Creado en Redis")
+	}
+
+	// Incrementar el contador del álbum en Redis
+	err = rdb.Incr(ctx, voto.Name).Err()
+	if err != nil {
+		fmt.Println("Error al incrementar el contador del álbum:", err)
+		return
+	}
+
+	fmt.Println("Voto almacenado exitosamente en Redis")
+
+}
+
 func ReadMessage(reader *kafka.Reader) *Voto {
 	// Read a message from Kafka
 	message, err := reader.ReadMessage(context.Background())
@@ -107,8 +145,9 @@ func main() {
 			fmt.Println("Enviando voto a DB's...")
 			// Guardar en DB's
 			SaveToMongoDB(voto)
+			SaveToRedis(voto)
 			// División
-			fmt.Println("\n\n---------------------------------\n\n")
+			fmt.Println("\n---------------------------------\n\n")
 
 		}
 
