@@ -1,92 +1,6002 @@
 [
   {
-    "name": "Pink Floyd",
-    "album": "The Dark Side of the Moon",
-    "year": "1973",
-    "rank": "1"
-  },
-  {
-    "name": "The Beatles",
-    "album": "Abbey Road",
-    "year": "1969",
-    "rank": "2"
-  },
-  {
-    "name": "Michael Jackson",
-    "album": "Thriller",
-    "year": "1982",
+    "name": "Led Zeppelin",
+    "album": "Exile on Main St.",
+    "year": "1977",
     "rank": "3"
   },
   {
     "name": "Led Zeppelin",
-    "album": "Led Zeppelin IV",
-    "year": "1971",
-    "rank": "4"
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
   },
   {
-    "name": "Nirvana",
-    "album": "Nevermind",
-    "year": "1991",
-    "rank": "5"
-  },
-  {
-    "name": "The Rolling Stones",
+    "name": "Aretha Franklin",
     "album": "Exile on Main St.",
-    "year": "1972",
-    "rank": "6"
-  },
-  {
-    "name": "Prince",
-    "album": "Purple Rain",
-    "year": "1984",
-    "rank": "7"
-  },
-  {
-    "name": "Bob Dylan",
-    "album": "Highway 61 Revisited",
-    "year": "1965",
-    "rank": "8"
-  },
-  {
-    "name": "The Velvet Underground",
-    "album": "The Velvet Underground & Nico",
-    "year": "1967",
-    "rank": "9"
+    "year": "1977",
+    "rank": "3"
   },
   {
     "name": "Radiohead",
-    "album": "OK Computer",
-    "year": "1997",
-    "rank": "10"
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
   },
   {
-    "name": "The Jimi Hendrix Experience",
-    "album": "Are You Experienced",
-    "year": "1967",
-    "rank": "11"
+    "name": "Led Zeppelin",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Who",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
   },
   {
     "name": "David Bowie",
-    "album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
-    "year": "1972",
-    "rank": "12"
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Who",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Who",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "1"
   },
   {
     "name": "Fleetwood Mac",
     "album": "Rumours",
     "year": "1977",
-    "rank": "13"
+    "rank": "3"
   },
   {
-    "name": "The Clash",
-    "album": "London Calling",
-    "year": "1979",
-    "rank": "14"
+    "name": "The Beach Boys",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
   },
   {
-    "name": "Bob Marley & The Wailers",
-    "album": "Legend",
-    "year": "1984",
-    "rank": "15"
+    "name": "David Bowie",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Who",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Who",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Who",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Who",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Who",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Who",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Who",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Who",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Who",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Who",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Who",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Who",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Radiohead",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Who",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Who",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Radiohead",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Who",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Who",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Who",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Who",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Who",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Who",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Who",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Who",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Who",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Radiohead",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Who",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Who",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Radiohead",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Who",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Radiohead",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Who",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Who",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Who",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Who",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Who",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Who",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Who",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Who",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Who",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Who",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Who",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Who",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Who",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Who",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Who",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Who",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Who",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Who",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Who",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Who",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Who",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Who",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Who",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Who",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Who",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Radiohead",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Who",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Who",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Who",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Who",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Who",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Who",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Radiohead",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Who",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Radiohead",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Who",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Who",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Radiohead",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Who",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Who",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Radiohead",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Who",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Who",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Who",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Who",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Who",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Radiohead",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Who",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Who",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "David Bowie",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Who",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Who",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Who",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Radiohead",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Who",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Pet Sounds",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Exile on Main St.",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Rumours",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "The Who",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Radiohead",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Blood on the Tracks",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "I Never Loved a Man the Way I Love You",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "David Bowie",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "The Who",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "David Bowie",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Beach Boys",
+    "album": "What's Going On",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Houses of the Holy",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Bob Dylan",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "The Rolling Stones",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Fleetwood Mac",
+    "album": "OK Computer",
+    "year": "1977",
+    "rank": "3"
+  },
+  {
+    "name": "Marvin Gaye",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "2"
+  },
+  {
+    "name": "Led Zeppelin",
+    "album": "Who's Next",
+    "year": "1977",
+    "rank": "1"
+  },
+  {
+    "name": "Aretha Franklin",
+    "album": "Hunky Dory",
+    "year": "1977",
+    "rank": "1"
   }
 ]
